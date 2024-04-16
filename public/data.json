@@ -1,0 +1,57 @@
+
+    [
+      {
+        "image": "https://i.ibb.co/J2PBq17/images.jpg",
+        "estate_title": "Luxury Villa in Beverly Hills",
+        "id": "001",
+        "segment_name": "Luxury Homes",
+        "description": "This exquisite villa offers breathtaking views of the city skyline, with luxurious amenities and spacious living areas.",
+        "price": "$5,000,000",
+        "status": "sale",
+        "area": "6000 sq ft",
+        "location": "Beverly Hills, CA",
+        "facilities": ["swimming pool", "home theater", "garden"],
+        "view_property_button": "View Property"
+      },
+      {
+        "image": "https://i.ibb.co/FbjQGZp/download.jpg",
+        "estate_title": "Penthouse in Manhattan",
+        "id": "002",
+        "segment_name": "Urban Living",
+        "description": "Experience the epitome of city living in this stunning penthouse located in the heart of Manhattan, boasting panoramic skyline views.",
+        "price": "$2,500",
+        "status": "rent",
+        "area": "3000 sq ft",
+        "location": "Manhattan, NY",
+        "facilities": ["rooftop terrace", "fitness center", "concierge service"],
+        "view_property_button": "View Property"
+      },
+      {
+        "image": "https://i.ibb.co/qyjLg8Y/images.jpg",
+        "estate_title": "Beachfront Villa in Malibu",
+        "id": "003",
+        "segment_name": "Seaside Retreats",
+        "description": "Escape to your own private paradise in this stunning beachfront villa, featuring direct access to the sandy shores of Malibu.",
+        "price": "$7,200,000",
+        "status": "sale",
+        "area": "5000 sq ft",
+        "location": "Malibu, CA",
+        "facilities": ["infinity pool", "private beach access", "outdoor kitchen"],
+        "view_property_button": "View Property"
+      },
+      {
+        "image": "https://i.ibb.co/SygTQxJ/images.jpg",
+        "estate_title": "Modern Apartment in Dubai Marina",
+        "id": "004",
+        "segment_name": "City Apartments",
+        "description": "Live in luxury in this sleek and modern apartment located in the vibrant Dubai Marina, offering stunning waterfront views.",
+        "price": "$800",
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "Dubai Marina, Dubai",
+        "facilities": ["gym", "sauna", "24/7 security"],
+        "view_property_button": "View Property"
+      }
+    ]
+  
+  
